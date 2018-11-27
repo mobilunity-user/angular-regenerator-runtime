@@ -1,4 +1,4 @@
-import regeneratorRuntime from "regenerator-runtime"
+import regeneratorRuntime from "regenerator-runtime";
 
 if ("object" === (typeof window)) {
   (<any>window).regeneratorRuntime = regeneratorRuntime;
