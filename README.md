@@ -1,1 +1,1 @@
-# Angular6 global shim
+# Angular6 Regenerator Runtime
